@@ -1,0 +1,1620 @@
+16
+so bao danh: 34120
+ten sinh vien: le lai
+lop sinh vien: c
+gioi tinh sinh vien: nam
+diem cua sinh vien 8.0
+
+so bao danh: cua sinh vien 4.0
+
+so bao danh: m
+diem cua sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: vien 4.0
+
+so bao danh: m
+diem cua sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: ien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: h vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 0.0
+
+so bao danh: lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: nh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien:  sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 68905650759520892223488.0
+
+so bao danh: n: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: inh vien: 
+gioi tinh si
+ten sinh vien: a sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien:  sinh vien 4.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 0.0
+
+so bao danh: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: p sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien:  cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: h: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 12710671454870423050073403293696.0
+
+so bao danh: inh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien:  
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: vien: vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: ioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 0.0
+
+so bao danh: sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: : 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: : 
+gioi tinh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 50836544476318049884086105800704.0
+
+so bao danh: inh si
+gioi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: oi tinh sinh vien: nh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: ua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien:  
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 18062296218339133799153008640.0
+
+so bao danh: h vien: 
+lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: lop sinh vien: 
+gioi tinh si
+diem cua sinh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: nh vien 813364827209207776724712125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: 12125628416.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 0.0
+
+so bao danh: 16.0
+
+so bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: bao danh: ien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: lop sinh vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 0.0
+
+so bao danh: vien: 
+gioi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: oi tinh si
+ten sinh vien: m cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: n 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: vien: 
+lop sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 73050702691761034339442229248.0
+
+so bao danh: p sinh vien: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: en: 
+gioi tinh si
+lop sinh vien: inh vien: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: n: 
+lop sinh vien: 
+gioi tinh si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: si
+gioi tinh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+diem cua sinh vien 50836544476318049884086105800704.0
+
+so bao danh: inh sinh vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+ten sinh vien: vien: i tinh si
+diem cua sinh vien 18370125522199398993362944.0
+
+so bao danh: 
+
+lop sinh vien: 125522199398993362944.0
+
+so bao danh: 
+
+gioi tinh sinh vien: o danh: 
+
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+
+so bao danh: 
+ten sinh vien: 
+lop sinh vien: 
+gioi tinh sinh vien: 
+diem cua sinh vien 0.0
+

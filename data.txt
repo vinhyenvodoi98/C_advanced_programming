@@ -1,0 +1,11 @@
+9
+school		truong hoc
+computer	may tinh
+book	sach
+i	toi
+like	thich
+phone 		dien thoai
+camera	        may anh
+train	tau hoa
+and	va
+

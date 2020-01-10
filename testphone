@@ -1,0 +1,50 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include "jval.h"
+#include "jrb.h"
+
+int main()
+{
+	int i,n,x;
+	float diemtoan,diemly,diemhoa;
+	char name[80];
+	
+	JRB book,node;
+	
+	book =make_jrb();
+	jrb_insert_str(book,strdup("Dung"),new_jval_l(983456789));
+	jrb_insert_str(book,strdup("Thang"),new_jval_l(945567855));
+	jrb_insert_str(book,strdup("Huong"),new_jval_l(965465454));
+	jrb_insert_str(book,strdup("Anh"),new_jval_l(542545459));
+	while(1){
+		printf("1. nhap \n");
+		printf("2. tim sdt\n");
+		printf("3. in \n");
+		scanf("%d",&x);
+		if(x==1)
+		{
+			printf("nhap ten \n");
+			scanf("%*c"); scanf("%[^\n]",name);
+			printf("nhap so dien thoai\n");
+			scanf("%d",&sdt);
+			jrb_insert_str(book,strdup(name),new_jval_l(sdt));
+		}
+		if(x==2)
+		{
+			printf("nhap ten \n");
+			scanf("%*c"); scanf("%[^\n]",name);
+			jrb_traverse(node, book)
+			{
+				if(strcmp(node->key,name)==0)
+					printf("%d\n",node->val );
+			}
+		}
+		if(x==3)
+		{
+			jrb_traverse(node, book)
+			printf("%s %d\n",node->key,node->val );
+		}
+
+	}
+	
+}
